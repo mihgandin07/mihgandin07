@@ -1,5 +1,5 @@
 ## sobre mim
--👋 Hi, I’m @mihgandin07
+-👋  oi eu sou@mihgandin07
 -👍meu imail de contato é milena.gandin@escola.pr.gov.br
 - 👀 eu estou interessado em aprendera programar novas linguas...
 - 🌱 eu estou aprendendo recentemente a linguagem javascript e scratch ..
